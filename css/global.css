@@ -51,3 +51,11 @@ i.icon-gray {
 i.icon-bg-black {
     background-color: black;
 }
+
+div.col4-center {
+    margin-left: 33.535%;
+}
+
+*.copy {
+    font-family: Arial, Helvetica, sans-serif;
+}
