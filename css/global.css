@@ -4,7 +4,7 @@
     src: url('/fonts/indieflower-regular-webfont.woff2') format('woff2');
 }
 
-body {
+* {
     font-family: 'IndieFlower';
 }
 
