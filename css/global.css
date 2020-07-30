@@ -8,9 +8,12 @@
     font-family: 'IndieFlower';
 }
 
-h1.title {
-    text-align: center;
+h1.huge {
     font-size: 350%;
+}
+
+*.center {
+    text-align: center;
 }
 
 @keyframes test {
@@ -28,9 +31,6 @@ h1.title {
 div.box {
     background-color: black;
     border-radius: 30px;
-    width: 100px;
-    height: 100px;
     opacity: 0.8;
-    animation: 'test' 10s infinite;
-    animation: 'size' 5s infinite;
+    color: white;
 }
