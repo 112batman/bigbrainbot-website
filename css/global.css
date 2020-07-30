@@ -34,3 +34,20 @@ div.box {
     opacity: 0.8;
     color: white;
 }
+
+i.icon-orange {
+    color: orange;
+}
+i.icon-green {
+    color: green;
+}
+i.icon-lightgreen {
+    color: rgb(26, 189, 26);
+}
+i.icon-gray {
+    color: rgb(153, 152, 152);
+}
+
+i.icon-bg-black {
+    background-color: black;
+}
