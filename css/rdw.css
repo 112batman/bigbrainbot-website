@@ -4,7 +4,7 @@
 
 /*For mobile users*/
 [class*="col-"] {
-    width: 100%;
+    width: 99.6%;
 }
 
 /*For users on tablets*/
